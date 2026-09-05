@@ -1,0 +1,5 @@
+uploads/
+tokens.json
+files.json
+notas.json
+*.log
